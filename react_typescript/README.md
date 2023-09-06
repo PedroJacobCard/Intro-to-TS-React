@@ -1,0 +1,2 @@
+In this Project I simple accompained the introduction to typescript with React directed by Dave Gray.
+This lesson covers simple types for components but precisely how to use types for props and generics for rendering an array list.
